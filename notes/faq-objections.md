@@ -3,15 +3,14 @@
 > The concerns clients actually have before hiring a freelance designer, each with Sam's answer. Feeds a site "FAQ / How I work" section and informs quiz result copy. Answers are drafts in Sam's voice — confirm specifics (price, availability, IP) before publishing.
 
 ## Do you just design, or build it too?
-For **websites**, I can take it all the way — design *and* build a fast, responsive site you own. For **products/apps**, I deliver senior design and dev-ready handoff, and I work closely with your engineers (or help you find them). I'll always be clear up front about what's design vs. build for your project.
-*(Confirm: scope of build offering.)*
+For **marketing websites**, I take it all the way — I design in Figma and build and launch your site in Framer, so you get a fast, responsive site you own. For **products and apps**, I'm a designer, not a developer: I deliver UX/UI, interactive prototypes, and dev-ready handoff, and I work closely with your engineers (or help you find them) to get it built. I'm always upfront about what's design vs. build for your project — no surprises.
 
 ## What's it like to work with you? / What's the process?
 Strategy first. We start with your goals, your users, and the real constraints — then I map the flows, design, and refine with you at clear milestones. You're never guessing where things stand. I bring order to complexity; you stay involved without being overwhelmed.
 
 ## How much does it cost?
-I work in packaged, fixed-scope offers with a starting price, then give you a custom quote after a short discovery call. See [[services-offer]] for ranges. You'll know what you're getting before we start — no open-ended meters.
-*(Confirm: published price ranges.)*
+**Marketing websites** come as a fixed package, with custom add-ons if your scope goes beyond it — so you know the number up front. **Product design** is bespoke: because every product differs in size and complexity, I scope and quote it after a short discovery call. Either way, you'll know exactly what you're getting before we start — no open-ended meters. See [[services-offer]].
+*(Confirm: published package price.)*
 
 ## How long will it take?
 Depends on scope, but I keep timelines tight and realistic. A brand website is typically a few weeks; a product sprint runs ~2–3 weeks; ongoing engagements are monthly. I'll give you a real timeline in the proposal, not a vague "it depends."
