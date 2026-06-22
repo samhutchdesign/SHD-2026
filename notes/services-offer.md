@@ -14,7 +14,18 @@ Buyers convert better on clear, fixed-scope offers with a starting price than on
 - **What you get:** Strategy mini-session → site map & copy direction → custom design (Figma) → **built and launched in Framer** → responsive, fast, mobile-first, SEO basics, analytics, launch support.
 - **Build reality (important):** Sam designs in Figma and **builds simple marketing sites himself in Framer**. This is a true end-to-end package. (E-commerce: possible but not yet proven — scope case by case.)
 - **Timeline:** ~3–5 weeks.
-- **Starting price:** *Package from $X,XXX (fixed).* — confirm.
+- **Pricing tiers — region-based PLACEHOLDERS for Sam to confirm.** Sam can charge more for US clients than EU. Show US visitors USD pricing and EU visitors EUR pricing (see implementation note). Client pays the Framer subscription (~$10–$30/mo) separately.
+
+  | Tier | Scope | EU (EUR) | US (USD) |
+  |---|---|---|---|
+  | **Launch** | 1–3 pages / landing | €800–€1,500 | $1,500–$2,500 |
+  | **Standard** | 5–7 page marketing site (core) | €2,500–€4,500 | $3,500–$5,000 |
+  | **Signature** | 8+ pages, CMS/blog, bespoke motion | €5,000–€8,000 | $6,000–$8,000+ |
+
+  Plus **custom add-ons** beyond a tier (extra pages, copywriting, integrations).
+  *Research basis: 2026 US senior freelance marketing sites ~$3k–$6k (5–10 pp), $1.5k–$8k overall; EU/NL SMB sites €500–€3k typical, NL freelancers €3k–€9k for fuller scope, Western-EU senior rates €75–€150/hr.*
+
+- **Region-based pricing — implementation note:** geolocate the visitor (IP or timezone) and display US vs EU tier + currency automatically; fall back to a region toggle (US / Europe) and a "prices in your region — confirmed on our call" line. Keep it honest: the quote is finalized after the discovery call.
 - **Positioning note:** The productized offer. This is the "I just need a website" landing spot — welcomed, but not the headline.
 
 ## Offer 2 — Product Design Sprint / Engagement *(Track B: startup / product)* — BESPOKE

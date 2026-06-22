@@ -75,7 +75,7 @@ Each result has: a tailored **headline**, a one-line **diagnosis** (mirrors thei
 ### Result A — "You need a website that earns trust."
 - **Diagnosis:** "You've got a business to be proud of — your site should make people feel that in five seconds."
 - **Proof point:** a brand/web build (placeholder until selected).
-- **Offer:** Marketing Website package — designed in Figma, built and launched in Framer. *(From $X — confirm.)*
+- **Offer:** Marketing Website package — designed in Figma, built and launched in Framer. *(Region-based tiers: EU from €800 / US from $1,500 — see [[services-offer]]; confirm.)*
 - **CTA:** "Book a free call — I'll tell you exactly what your site needs."
 
 ### Result B — "You need to make a complex product feel obvious."
@@ -92,27 +92,36 @@ Each result has: a tailored **headline**, a one-line **diagnosis** (mirrors thei
 
 ---
 
-## The takeaway: "Your Design Recipe" *(the cmd+zest-style keepsake)*
+## The takeaway: "Your Design Character Sheet" *(D&D-themed cmd+zest keepsake)*
 
-A personalized, shareable card generated from their answers. Demonstrates Sam's strategic thinking *and* gives them something to keep / bring to the call.
+A personalized, shareable **character sheet** generated from their answers — leaning into Sam's game-raised, playful brand. The quiz assigns each visitor a **design class** (a D&D archetype), names their **quest**, and gives their **first move**. Sam is cast as the **guide** for the journey. Demonstrates strategic thinking *and* gives them a fun, shareable keepsake to bring to the call.
 
-**Card structure:**
-- **Title:** "Your Design Recipe" + a playful named "type" based on track + key answers (e.g., *"The Untangler,"* *"The First Impression,"* *"The Pathfinder"*).
-- **Your goal:** one line restating what they're building (from Q1/Q3).
-- **The first move I'd make:** one specific, generous strategic tip tailored to their track + pain — real value, not a teaser.
+**Character-sheet structure:**
+- **Class:** the D&D archetype (see table) + a one-line flavor tagline.
+- **Your quest:** one line restating what they're building (from Q1/Q3).
+- **Your first move:** one specific, generous strategic tip tailored to their class — real value, not a teaser.
 - **Why it matters:** one line tying it to their business outcome.
-- **A proof point:** the matched case study, one line.
-- **Footer CTA:** "Want the rest? Book a free call." + share button.
+- **Your guide:** Sam + the matched proof point, framed as "I've cleared this dungeon before" (e.g., "See NBA Top Shot").
+- **Footer CTA:** "Every quest needs a guide. Book a free call." + share button.
+- *(Optional flavor: small "stat" flourishes — e.g., Clarity, Craft, Conversion — for fun. Keep minimal.)*
 
-**Example named types (draft, ~9 combos like cmd+zest):**
-- Track A + "dated" → **"The First Impression"**
-- Track B + "confusing" → **"The Untangler"**
-- Track C + "not sure what to build" → **"The Pathfinder"**
-- Track B + "not converting" → **"The Flow Fixer"**
-- Track C + "complex/advanced" → **"The Simplifier"**
-- (fill remaining combos in build)
+**The 9 design classes (archetype = Track + Q3 blocker):**
 
-**Format decision (recommended):** a shareable **image card** (downloadable / social-ready), generated client-side. Falls back to an on-screen card. Confirm in Phase 3 design.
+| # | Class | Trigger (Track + blocker) | Tagline | First move (the tip) |
+|---|---|---|---|---|
+| 1 | **The Bard** | A + looks dated / credibility | "Your story is great — but the crowd decides in five seconds." | A hero section that says who you help + shows proof, above the fold. |
+| 2 | **The Ranger** | A + not converting / growth | "A beautiful site that misses the target is just scenery." | One primary call-to-action per page, aimed at a single outcome. |
+| 3 | **The Paladin** | A + refresh / solo-founder trust | "Trust is your armor. Wear it on every page." | Lead with testimonials and proof; keep the brand consistent throughout. |
+| 4 | **The Wizard** | B + confusing / hard to use | "You've mastered a complex system. Your users need a simpler spellbook." | Cut the first-time user's choices down to one obvious next step. |
+| 5 | **The Rogue** | B + not converting / growth | "Every extra step is a trap. Find the shortest path to value." | Map the critical flow and remove one step this week. |
+| 6 | **The Artificer** | B + complex / advanced tech | "Advanced tech only impresses if people can actually use it." | Hide the machinery; surface the one outcome users care about. |
+| 7 | **The Cleric** | C + not sure what to build | "Before the journey, you need a direction worth walking." | Define who it's for and the single job it does — in one sentence. |
+| 8 | **The Druid** | C + complex / advanced | "You see a tangled ecosystem. Let's find its natural shape." | Map the whole system once, then find the core loop everything orbits. |
+| 9 | **The Sorcerer** | C + just an idea / early | "Raw potential, untamed. Let's shape it into something people can hold." | Turn the idea into one testable user story and put it in front of someone. |
+
+*Selection: pick the class by result Track (from scoring) + the Q3 blocker answer. If Q3 doesn't have a matching class for the chosen track, fall back to the track's "default" class (A→Bard, B→Wizard, C→Cleric). Finalize edge cases in build.*
+
+**Format decision (recommended):** a shareable **image card** styled like a character sheet/trading card (downloadable / social-ready), generated client-side. Falls back to an on-screen card. Confirm visual treatment in Phase 3 (Efecto).
 
 ---
 
@@ -128,8 +137,8 @@ A personalized, shareable card generated from their answers. Demonstrates Sam's 
 - **A/B test order (post-launch):** result CTA → result copy → question order.
 
 ## Open items
-- Confirm marketing-website package price for Result A.
-- Pick the ~9 takeaway "types" and write each one's "first move" tip.
+- Confirm marketing-website package prices (region-based tiers in [[services-offer]]).
+- Review/approve the 9 D&D design classes and their "first move" tips (drafted above).
 - Select/screenshot a web build to feature in Result A (until then, placeholder).
 
 ## Related
